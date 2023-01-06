@@ -8,7 +8,7 @@
 3. Some optional sample files in client and server folder
 
 # Prerequisite
-1. Version python3 <=
+1. Version: python3
 2. MAC/Linux Only
 
 # Get started
