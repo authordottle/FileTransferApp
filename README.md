@@ -21,7 +21,7 @@ python3 server.py
 ```
 python3 client.py
 ```
-<br />** Notice: More connections can be made by adding running client.py in other terminals.
+** Notice: More connections can be made by adding running client.py in other terminals.
 
 3. input server id which will be listed in the terminal
 
@@ -41,16 +41,16 @@ python3 client.py
 <br />** Notice: The user is required to click this button for leaving, or they cant leave later when the page is redirected.
 
 # Additional questions and their answers
-1. How to prove available files:
+1. How to prove available files?
 <br />Open 2 client windows, check the second one by clicking show available files.
 
-2. How to prove 2 clients can be onsite together:
+2. How to prove 2 clients can be onsite together?
 <br />Open 2 client windows, for the second one check available files to download, you can see other people's file. Leave the first one which registered first by clicking leave button. For the second client, check the available files, there are only this users files.
 
-3. How to prove same files can be onsite:
+3. How to prove same files can be onsite?
 <br />When check the available files to download, some files have the same name but they belong to different users.
 
-4. How to prove files with same name wont be oeverlapped when download:
+4. How to prove files with same name wont be oeverlapped when download?
 <br />When check the available files to download, the file will be renamed when local has the same file name.
 
 
