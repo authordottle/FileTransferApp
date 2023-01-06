@@ -8,18 +8,18 @@
 3. Some optional sample files in client and server folder
 
 # Prerequisite
-1. Version: python3
+1. Version: python3 <= 
 2. MAC/Linux Only
 
 # Get started
 1. ln the terminal, cd into server folder and open the server.py
 ```
-python3 server.py
+{versionOfPython} server.py
 ```
 
 2. ln another terminal, cd into server folder and open the client.py
 ```
-python3 client.py
+{versionOfPython} client.py
 ```
 ** Notice: More connections can be made by adding running client.py in other terminals.
 
