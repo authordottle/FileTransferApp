@@ -53,4 +53,5 @@
 4. How to prove files with same name wont be oeverlapped when download?
 <br />When check the available files to download, the file will be renamed when local has the same file name.
 
-
+# Feedback
+#### Server can't handle when more than one client has the same file.
