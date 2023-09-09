@@ -40,7 +40,7 @@
 8. Option: leave
 <br />** Notice: The user is required to click this button for leaving, or they cant leave later when the page is redirected.
 
-# Additional questions and their answers
+# Q & A
 1. How to prove available files?
 <br />Open 2 client windows, check the second one by clicking show available files.
 
