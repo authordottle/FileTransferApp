@@ -4,7 +4,7 @@
 
 # Files
 1. server.py and client.py
-2. UI: Tkinter
+2. UI: [Tkinter](https://docs.python.org/3/library/tkinter.html)
 3. Some optional sample files in client and server folder
 
 # Prerequisite
